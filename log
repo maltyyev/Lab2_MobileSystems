@@ -1,11 +1,12 @@
---2014-06-25 19:50:03--  http://www.pogoda.by/
-Resolving www.pogoda.by (www.pogoda.by)... 80.94.164.100
-Connecting to www.pogoda.by (www.pogoda.by)|80.94.164.100|:80... connected.
+--2014-06-25 19:53:29--  http://www.gismeteo.by/
+Resolving www.gismeteo.by (www.gismeteo.by)... 212.24.42.229
+Connecting to www.gismeteo.by (www.gismeteo.by)|212.24.42.229|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 44499 (43K) [text/html]
+Length: 54519 (53K) [text/html]
 Saving to: ‘page.html’
 
-     0K .......... .......... .......... .......... ...       100%  171M=0s
+     0K .......... .......... .......... .......... .......... 93%  329M 0s
+    50K ...                                                   100% 6182G=0s
 
-2014-06-25 19:50:03 (171 MB/s) - ‘page.html’ saved [44499/44499]
+2014-06-25 19:53:32 (351 MB/s) - ‘page.html’ saved [54519/54519]
 
