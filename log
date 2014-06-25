@@ -1,12 +1,12 @@
---2014-06-20 06:33:22--  http://www.gismeteo.by/
+--2014-06-25 19:34:38--  http://www.gismeteo.by/
 Resolving www.gismeteo.by (www.gismeteo.by)... 212.24.42.229
 Connecting to www.gismeteo.by (www.gismeteo.by)|212.24.42.229|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 54819 (54K) [text/html]
+Length: 54620 (53K) [text/html]
 Saving to: ‘page.html’
 
-     0K .......... .......... .......... .......... .......... 93%  443M 0s
-    50K ...                                                   100% 6741G=0s
+     0K .......... .......... .......... .......... .......... 93%  247M 0s
+    50K ...                                                   100% 6370G=0s
 
-2014-06-20 06:33:26 (475 MB/s) - ‘page.html’ saved [54819/54819]
+2014-06-25 19:34:39 (263 MB/s) - ‘page.html’ saved [54620/54620]
 

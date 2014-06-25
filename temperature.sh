@@ -3,7 +3,7 @@
 while true
 do
 	file="page.html"
-	url="http://www.gismeteo.by/"
+	url="http://www.gismeteo.by/weather-minsk-4248/"
 	log="log.txt"
 	wget -o log $url -O $file
 	htmlfile=$(<page.html)
