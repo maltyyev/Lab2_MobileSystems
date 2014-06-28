@@ -11,3 +11,4 @@ do
 	echo $(sed 's/[^\-\+0-9]//g' temp)
 	sleep $(cat time)
 done
+
