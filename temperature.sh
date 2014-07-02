@@ -9,5 +9,7 @@ do
 	htmlfile=$(<page.html)
 	grep -m 1 "<dd class='value m_temp c'>" $file > temp
 	echo $(sed 's/[^\-\+0-9]//g' temp)
+	rm -r log page.html temp
 	sleep $(cat time)
 done
+
