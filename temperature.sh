@@ -2,8 +2,8 @@
 
 while true
 do
-	wget -o log "http://www.gismeteo.by/" -O page.html
-	grep -m 1 "<dd class='value m_temp c'>" page.html > temp
+	wget -o log "http://www.meteo.by/" -O page.html
+	grep -A 6 '<p class="t ">' page.html > temp
 	echo $(sed 's/[^\-\+0-9]//g' temp)
 	rm log page.html temp
 	sleep $(cat time)
